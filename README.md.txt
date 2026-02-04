@@ -18,4 +18,5 @@ This project stores and manages student and course data.
 1. Open MySQL Workbench
 2. Create a new schema
 3. Import student_management.sql
+
 4. Execute the script
