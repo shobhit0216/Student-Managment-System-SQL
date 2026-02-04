@@ -23,4 +23,4 @@ It helps manage students, courses, and enrollments using SQL queries.
 5. Run SQL queries to view data
 
 ## 👤 Author
-Shobhit Choudhary
+Shobhit Kumar  Chaudhary
